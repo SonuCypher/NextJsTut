@@ -2,7 +2,7 @@ import React from 'react'
 
 const NewUserPage = () => {
   return (
-    <div>newUserPage.newere page</div>
+    <div>newUserPage.</div>
   )
 }
 
